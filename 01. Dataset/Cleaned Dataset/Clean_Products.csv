@@ -1,0 +1,272 @@
+SKU,ProductName,Category,Brand,PackSize,Status,DelistWeek,BasePrice
+P0001,Fresh Produce item 0001,Fresh Produce,National Brand,Large,Delisted,12,28.0
+P0002,Fresh Produce item 0002,Fresh Produce,Regional Brand,Medium,Active,,177.0
+P0003,Fresh Produce item 0003,Fresh Produce,Own Label,Small,Active,,68.0
+P0004,Fresh Produce item 0004,Fresh Produce,Regional Brand,Medium,Delisted,43,115.0
+P0005,Fresh Produce item 0005,Fresh Produce,Regional Brand,Large,Active,,131.0
+P0006,Fresh Produce item 0006,Fresh Produce,Regional Brand,Medium,Active,,92.0
+P0007,Fresh Produce item 0007,Fresh Produce,National Brand,Large,Active,,117.0
+P0008,Fresh Produce item 0008,Fresh Produce,National Brand,Medium,Active,,33.0
+P0009,Fresh Produce item 0009,Fresh Produce,National Brand,Medium,Active,,60.0
+P0010,Fresh Produce item 0010,Fresh Produce,Own Label,Medium,Active,,120.0
+P0011,Fresh Produce item 0011,Fresh Produce,National Brand,Medium,Active,,164.0
+P0012,Fresh Produce item 0012,Fresh Produce,National Brand,Medium,Active,,71.0
+P0013,Fresh Produce item 0013,Fresh Produce,National Brand,Medium,Active,,87.0
+P0014,Fresh Produce item 0014,Fresh Produce,National Brand,Medium,Active,,127.0
+P0015,Fresh Produce item 0015,Fresh Produce,Own Label,Small,Active,,126.0
+P0016,Fresh Produce item 0016,Fresh Produce,National Brand,Medium,Delisted,42,164.0
+P0017,Fresh Produce item 0017,Fresh Produce,National Brand,Large,Active,,143.0
+P0018,Fresh Produce item 0018,Fresh Produce,Regional Brand,Small,Delisted,31,31.0
+P0019,Fresh Produce item 0019,Fresh Produce,Own Label,Small,Delisted,21,58.0
+P0020,Fresh Produce item 0020,Fresh Produce,National Brand,Small,Delisted,31,141.0
+P0021,Fresh Produce item 0021,Fresh Produce,Regional Brand,Medium,Delisted,10,148.0
+P0022,Fresh Produce item 0022,Fresh Produce,Own Label,Large,Active,,90.0
+P0023,Fresh Produce item 0023,Fresh Produce,National Brand,Medium,Active,,164.0
+P0024,Fresh Produce item 0024,Fresh Produce,Own Label,Medium,Active,,115.0
+P0025,Fresh Produce item 0025,Fresh Produce,Own Label,Large,Active,,121.0
+P0026,Fresh Produce item 0026,Fresh Produce,Own Label,Large,Active,,176.0
+P0027,Fresh Produce item 0027,Fresh Produce,National Brand,Medium,Active,,174.0
+P0028,Fresh Produce item 0028,Fresh Produce,National Brand,Large,Active,,86.0
+P0029,Fresh Produce item 0029,Fresh Produce,National Brand,Medium,Active,,171.0
+P0030,Fresh Produce item 0030,Fresh Produce,National Brand,Medium,Active,,30.0
+P0031,Fresh Produce item 0031,Fresh Produce,Regional Brand,Small,Active,,96.0
+P0032,Fresh Produce item 0032,Fresh Produce,Regional Brand,Large,Active,,24.0
+P0033,Fresh Produce item 0033,Fresh Produce,Own Label,Large,Active,,51.0
+P0034,Dairy item 0034,Dairy,National Brand,Large,Active,,117.0
+P0035,Dairy item 0035,Dairy,Regional Brand,Large,Active,,41.0
+P0036,Dairy item 0036,Dairy,National Brand,Small,Active,,110.0
+P0037,Dairy item 0037,Dairy,Own Label,Large,Active,,50.0
+P0038,Dairy item 0038,Dairy,National Brand,Large,Active,,91.0
+P0039,Dairy item 0039,Dairy,Own Label,Large,Active,,71.0
+P0040,Dairy item 0040,Dairy,National Brand,Medium,Active,,102.0
+P0041,Dairy item 0041,Dairy,National Brand,Small,Active,,26.0
+P0042,Dairy item 0042,Dairy,Regional Brand,Small,Active,,99.0
+P0043,Dairy item 0043,Dairy,Regional Brand,Medium,Active,,66.0
+P0044,Dairy item 0044,Dairy,Regional Brand,Large,Active,,29.0
+P0045,Dairy item 0045,Dairy,Own Label,Large,Active,,62.0
+P0046,Dairy item 0046,Dairy,National Brand,Small,Active,,111.0
+P0047,Dairy item 0047,Dairy,National Brand,Medium,Active,,116.0
+P0048,Dairy item 0048,Dairy,National Brand,Large,Active,,113.0
+P0049,Dairy item 0049,Dairy,National Brand,Large,Active,,50.0
+P0050,Dairy item 0050,Dairy,Own Label,Medium,Active,,45.0
+P0051,Dairy item 0051,Dairy,Own Label,Small,Active,,111.0
+P0052,Dairy item 0052,Dairy,Regional Brand,Large,Active,,47.0
+P0053,Dairy item 0053,Dairy,National Brand,Small,Active,,81.0
+P0054,Dairy item 0054,Dairy,National Brand,Medium,Active,,27.0
+P0055,Dairy item 0055,Dairy,National Brand,Small,Active,,27.0
+P0056,Dairy item 0056,Dairy,National Brand,Medium,Delisted,15,55.0
+P0057,Dairy item 0057,Dairy,Own Label,Medium,Active,,56.0
+P0058,Dairy item 0058,Dairy,Own Label,Small,Active,,26.0
+P0059,Dairy item 0059,Dairy,Own Label,Medium,Active,,50.0
+P0060,Dairy item 0060,Dairy,Regional Brand,Large,Active,,61.0
+P0061,Dairy item 0061,Dairy,Own Label,Medium,Active,,85.0
+P0062,Dairy item 0062,Dairy,National Brand,Small,Active,,69.0
+P0063,Dairy item 0063,Dairy,National Brand,Medium,Active,,25.0
+P0064,Dairy item 0064,Dairy,National Brand,Large,Active,,109.0
+P0065,Dairy item 0065,Dairy,Own Label,Medium,Active,,77.0
+P0066,Dairy item 0066,Dairy,National Brand,Medium,Delisted,35,111.0
+P0067,Dairy item 0067,Dairy,Own Label,Small,Delisted,21,27.0
+P0068,Dairy item 0068,Dairy,Own Label,Small,Active,,75.0
+P0069,Dairy item 0069,Dairy,Regional Brand,Medium,Active,,65.0
+P0070,Dairy item 0070,Dairy,Own Label,Small,Active,,54.0
+P0071,Dairy item 0071,Dairy,Regional Brand,Large,Active,,38.0
+P0072,Bakery item 0072,Bakery,Own Label,Medium,Active,,76.0
+P0073,Bakery item 0073,Bakery,Own Label,Large,Delisted,34,36.0
+P0074,Bakery item 0074,Bakery,National Brand,Large,Active,,43.0
+P0075,Bakery item 0075,Bakery,National Brand,Large,Active,,37.0
+P0076,Bakery item 0076,Bakery,National Brand,Small,Active,,32.0
+P0077,Bakery item 0077,Bakery,Regional Brand,Small,Active,,34.0
+P0078,Bakery item 0078,Bakery,Regional Brand,Medium,Active,,67.0
+P0079,Bakery item 0079,Bakery,Regional Brand,Large,Active,,48.0
+P0080,Bakery item 0080,Bakery,Regional Brand,Medium,Active,,43.0
+P0081,Bakery item 0081,Bakery,Own Label,Large,Active,,36.0
+P0082,Bakery item 0082,Bakery,National Brand,Small,Active,,60.0
+P0083,Bakery item 0083,Bakery,Own Label,Small,Active,,41.0
+P0084,Bakery item 0084,Bakery,Own Label,Medium,Active,,67.0
+P0085,Bakery item 0085,Bakery,Regional Brand,Medium,Active,,72.0
+P0086,Bakery item 0086,Bakery,Regional Brand,Large,Active,,71.0
+P0087,Bakery item 0087,Bakery,Regional Brand,Small,Active,,52.0
+P0088,Bakery item 0088,Bakery,National Brand,Medium,Active,,81.0
+P0089,Bakery item 0089,Bakery,National Brand,Large,Active,,41.0
+P0090,Bakery item 0090,Bakery,National Brand,Large,Active,,46.0
+P0091,Bakery item 0091,Bakery,National Brand,Large,Active,,35.0
+P0092,Bakery item 0092,Bakery,Own Label,Small,Active,,66.0
+P0093,Bakery item 0093,Bakery,National Brand,Small,Active,,62.0
+P0094,Bakery item 0094,Bakery,Regional Brand,Medium,Active,,84.0
+P0095,Bakery item 0095,Bakery,National Brand,Large,Active,,78.0
+P0096,Bakery item 0096,Bakery,Own Label,Large,Active,,50.0
+P0097,Bakery item 0097,Bakery,Regional Brand,Medium,Active,,58.0
+P0098,Bakery item 0098,Bakery,National Brand,Small,Delisted,43,84.0
+P0099,Bakery item 0099,Bakery,National Brand,Small,Active,,77.0
+P0100,Bakery item 0100,Bakery,National Brand,Small,Active,,77.0
+P0101,Bakery item 0101,Bakery,Own Label,Medium,Active,,56.0
+P0102,Bakery item 0102,Bakery,National Brand,Large,Active,,65.0
+P0103,Bakery item 0103,Bakery,Own Label,Large,Active,,60.0
+P0104,Bakery item 0104,Bakery,National Brand,Medium,Active,,45.0
+P0105,Bakery item 0105,Bakery,National Brand,Medium,Active,,48.0
+P0106,Bakery item 0106,Bakery,National Brand,Small,Active,,38.0
+P0107,Bakery item 0107,Bakery,National Brand,Small,Active,,59.0
+P0108,Frozen item 0108,Frozen,National Brand,Medium,Active,,413.0
+P0109,Frozen item 0109,Frozen,National Brand,Large,Active,,283.0
+P0110,Frozen item 0110,Frozen,Regional Brand,Small,Active,,343.0
+P0111,Frozen item 0111,Frozen,Own Label,Large,Active,,130.0
+P0112,Frozen item 0112,Frozen,National Brand,Medium,Active,,166.0
+P0113,Frozen item 0113,Frozen,Own Label,Small,Active,,117.0
+P0114,Frozen item 0114,Frozen,National Brand,Large,Delisted,33,113.0
+P0115,Frozen item 0115,Frozen,National Brand,Large,Active,,290.0
+P0116,Frozen item 0116,Frozen,Regional Brand,Large,Active,,122.0
+P0117,Frozen item 0117,Frozen,National Brand,Small,Active,,154.0
+P0118,Frozen item 0118,Frozen,Own Label,Small,Active,,441.0
+P0119,Frozen item 0119,Frozen,National Brand,Medium,Delisted,24,146.0
+P0120,Frozen item 0120,Frozen,National Brand,Large,Active,,422.0
+P0121,Frozen item 0121,Frozen,National Brand,Large,Active,,341.0
+P0122,Frozen item 0122,Frozen,Own Label,Medium,Active,,393.0
+P0123,Frozen item 0123,Frozen,National Brand,Large,Active,,284.0
+P0124,Frozen item 0124,Frozen,National Brand,Small,Active,,278.0
+P0125,Frozen item 0125,Frozen,National Brand,Medium,Active,,231.0
+P0126,Frozen item 0126,Frozen,National Brand,Medium,Active,,147.0
+P0127,Frozen item 0127,Frozen,National Brand,Large,Active,,368.0
+P0128,Frozen item 0128,Frozen,Own Label,Small,Delisted,27,303.0
+P0129,Frozen item 0129,Frozen,Regional Brand,Small,Active,,115.0
+P0130,Frozen item 0130,Frozen,National Brand,Large,Active,,140.0
+P0131,Frozen item 0131,Frozen,Own Label,Large,Active,,259.0
+P0132,Frozen item 0132,Frozen,National Brand,Medium,Active,,292.0
+P0133,Frozen item 0133,Frozen,National Brand,Large,Active,,163.0
+P0134,Frozen item 0134,Frozen,Own Label,Medium,Active,,436.0
+P0135,Frozen item 0135,Frozen,National Brand,Large,Active,,182.0
+P0136,Grocery item 0136,Grocery,Own Label,Medium,Active,,158.0
+P0137,Grocery item 0137,Grocery,Regional Brand,Medium,Active,,195.0
+P0138,Grocery item 0138,Grocery,Own Label,Small,Active,,78.0
+P0139,Grocery item 0139,Grocery,National Brand,Medium,Delisted,21,152.0
+P0140,Grocery item 0140,Grocery,Own Label,Small,Active,,241.0
+P0141,Grocery item 0141,Grocery,National Brand,Large,Active,,311.0
+P0142,Grocery item 0142,Grocery,Regional Brand,Small,Active,,41.0
+P0143,Grocery item 0143,Grocery,Own Label,Large,Active,,121.0
+P0144,Grocery item 0144,Grocery,National Brand,Medium,Active,,267.0
+P0145,Grocery item 0145,Grocery,National Brand,Small,Active,,260.0
+P0146,Grocery item 0146,Grocery,Own Label,Large,Active,,270.0
+P0147,Grocery item 0147,Grocery,National Brand,Large,Active,,75.0
+P0148,Grocery item 0148,Grocery,Own Label,Large,Active,,263.0
+P0149,Grocery item 0149,Grocery,Regional Brand,Small,Active,,294.0
+P0150,Grocery item 0150,Grocery,Regional Brand,Medium,Active,,186.0
+P0151,Grocery item 0151,Grocery,Own Label,Medium,Active,,178.0
+P0152,Grocery item 0152,Grocery,Regional Brand,Medium,Delisted,12,122.0
+P0153,Grocery item 0153,Grocery,National Brand,Small,Active,,345.0
+P0154,Grocery item 0154,Grocery,National Brand,Large,Active,,106.0
+P0155,Grocery item 0155,Grocery,National Brand,Small,Active,,397.0
+P0156,Grocery item 0156,Grocery,Regional Brand,Medium,Active,,120.0
+P0157,Grocery item 0157,Grocery,Regional Brand,Large,Active,,293.0
+P0158,Grocery item 0158,Grocery,Own Label,Large,Active,,120.0
+P0159,Grocery item 0159,Grocery,Own Label,Large,Active,,274.0
+P0160,Grocery item 0160,Grocery,National Brand,Small,Active,,398.0
+P0161,Grocery item 0161,Grocery,Own Label,Medium,Active,,398.0
+P0162,Grocery item 0162,Grocery,Regional Brand,Medium,Active,,319.0
+P0163,Grocery item 0163,Grocery,National Brand,Small,Delisted,19,369.0
+P0164,Grocery item 0164,Grocery,National Brand,Small,Active,,135.0
+P0165,Grocery item 0165,Grocery,Own Label,Large,Active,,295.0
+P0166,Grocery item 0166,Grocery,Own Label,Medium,Delisted,16,198.0
+P0167,Grocery item 0167,Grocery,Regional Brand,Medium,Active,,354.0
+P0168,Grocery item 0168,Grocery,National Brand,Medium,Active,,66.0
+P0169,Grocery item 0169,Grocery,Own Label,Large,Active,,77.0
+P0170,Grocery item 0170,Grocery,Regional Brand,Small,Active,,268.0
+P0171,Grocery item 0171,Grocery,National Brand,Large,Active,,179.0
+P0172,Beverages item 0172,Beverages,Own Label,Small,Active,,31.0
+P0173,Beverages item 0173,Beverages,National Brand,Large,Active,,147.0
+P0174,Beverages item 0174,Beverages,Own Label,Medium,Active,,201.0
+P0175,Beverages item 0175,Beverages,National Brand,Small,Active,,63.0
+P0176,Beverages item 0176,Beverages,Own Label,Small,Delisted,31,110.0
+P0177,Beverages item 0177,Beverages,National Brand,Medium,Active,,194.0
+P0178,Beverages item 0178,Beverages,National Brand,Small,Active,,44.0
+P0179,Beverages item 0179,Beverages,Own Label,Medium,Active,,138.0
+P0180,Beverages item 0180,Beverages,National Brand,Small,Active,,120.0
+P0181,Beverages item 0181,Beverages,National Brand,Large,Active,,179.0
+P0182,Beverages item 0182,Beverages,National Brand,Medium,Active,,80.0
+P0183,Beverages item 0183,Beverages,National Brand,Large,Active,,136.0
+P0184,Beverages item 0184,Beverages,Own Label,Medium,Active,,124.0
+P0185,Beverages item 0185,Beverages,National Brand,Small,Active,,134.0
+P0186,Beverages item 0186,Beverages,National Brand,Small,Active,,79.0
+P0187,Beverages item 0187,Beverages,National Brand,Large,Active,,58.0
+P0188,Beverages item 0188,Beverages,Own Label,Small,Active,,129.0
+P0189,Beverages item 0189,Beverages,Own Label,Small,Active,,160.0
+P0190,Beverages item 0190,Beverages,Own Label,Small,Active,,156.0
+P0191,Beverages item 0191,Beverages,Own Label,Medium,Active,,125.0
+P0192,Beverages item 0192,Beverages,Own Label,Medium,Active,,138.0
+P0193,Beverages item 0193,Beverages,Own Label,Large,Delisted,32,118.0
+P0194,Beverages item 0194,Beverages,Regional Brand,Large,Active,,31.0
+P0195,Beverages item 0195,Beverages,National Brand,Small,Active,,140.0
+P0196,Beverages item 0196,Beverages,Regional Brand,Large,Active,,109.0
+P0197,Beverages item 0197,Beverages,Own Label,Large,Active,,193.0
+P0198,Beverages item 0198,Beverages,National Brand,Large,Active,,189.0
+P0199,Beverages item 0199,Beverages,Regional Brand,Small,Active,,216.0
+P0200,Beverages item 0200,Beverages,National Brand,Small,Active,,208.0
+P0201,Beverages item 0201,Beverages,National Brand,Large,Active,,219.0
+P0202,Beverages item 0202,Beverages,National Brand,Small,Active,,179.0
+P0203,Beverages item 0203,Beverages,Own Label,Large,Active,,151.0
+P0204,Beverages item 0204,Beverages,National Brand,Small,Active,,54.0
+P0205,Household item 0205,Household,Regional Brand,Medium,Active,,345.0
+P0206,Household item 0206,Household,National Brand,Large,Active,,279.0
+P0207,Household item 0207,Household,National Brand,Small,Active,,205.0
+P0208,Household item 0208,Household,Regional Brand,Small,Active,,401.0
+P0209,Household item 0209,Household,National Brand,Large,Active,,410.0
+P0210,Household item 0210,Household,Own Label,Large,Delisted,33,278.0
+P0211,Household item 0211,Household,Own Label,Large,Active,,268.0
+P0212,Household item 0212,Household,Regional Brand,Large,Active,,393.0
+P0213,Household item 0213,Household,National Brand,Medium,Active,,450.0
+P0214,Household item 0214,Household,Regional Brand,Small,Active,,298.0
+P0215,Household item 0215,Household,Regional Brand,Small,Active,,119.0
+P0216,Household item 0216,Household,National Brand,Medium,Active,,256.0
+P0217,Household item 0217,Household,Regional Brand,Large,Active,,145.0
+P0218,Household item 0218,Household,National Brand,Small,Active,,169.0
+P0219,Household item 0219,Household,Own Label,Small,Active,,144.0
+P0220,Household item 0220,Household,Regional Brand,Medium,Active,,391.0
+P0221,Household item 0221,Household,National Brand,Medium,Active,,218.0
+P0222,Household item 0222,Household,National Brand,Small,Active,,153.0
+P0223,Household item 0223,Household,National Brand,Small,Active,,431.0
+P0224,Household item 0224,Household,Regional Brand,Medium,Active,,449.0
+P0225,Household item 0225,Household,National Brand,Large,Active,,310.0
+P0226,Household item 0226,Household,National Brand,Large,Active,,63.0
+P0227,Household item 0227,Household,National Brand,Small,Active,,297.0
+P0228,Household item 0228,Household,National Brand,Small,Active,,135.0
+P0229,Household item 0229,Household,Own Label,Small,Active,,436.0
+P0230,Household item 0230,Household,Regional Brand,Medium,Active,,69.0
+P0231,Household item 0231,Household,National Brand,Medium,Active,,146.0
+P0232,Household item 0232,Household,National Brand,Small,Active,,370.0
+P0233,Household item 0233,Household,Regional Brand,Large,Active,,494.0
+P0234,Household item 0234,Household,Own Label,Medium,Active,,235.0
+P0235,Household item 0235,Household,Own Label,Large,Active,,78.0
+P0236,Household item 0236,Household,National Brand,Large,Active,,162.0
+P0237,Household item 0237,Household,National Brand,Large,Active,,334.0
+P0238,Household item 0238,Household,Own Label,Small,Active,,91.0
+P0239,Household item 0239,Household,Own Label,Small,Active,,346.0
+P0240,Household item 0240,Household,National Brand,Medium,Active,,279.0
+P0241,Household item 0241,Household,Regional Brand,Large,Active,,495.0
+P0242,Household item 0242,Household,Own Label,Small,Active,,292.0
+P0243,Household item 0243,Household,Regional Brand,Large,Active,,304.0
+P0244,Personal Care item 0244,Personal Care,National Brand,Large,Active,,198.0
+P0245,Personal Care item 0245,Personal Care,Own Label,Medium,Active,,212.0
+P0246,Personal Care item 0246,Personal Care,Regional Brand,Small,Active,,142.0
+P0247,Personal Care item 0247,Personal Care,Own Label,Small,Active,,334.0
+P0248,Personal Care item 0248,Personal Care,Own Label,Medium,Active,,91.0
+P0249,Personal Care item 0249,Personal Care,National Brand,Large,Active,,319.0
+P0250,Personal Care item 0250,Personal Care,National Brand,Medium,Active,,119.0
+P0251,Personal Care item 0251,Personal Care,Own Label,Large,Active,,276.0
+P0252,Personal Care item 0252,Personal Care,Regional Brand,Small,Active,,125.0
+P0253,Personal Care item 0253,Personal Care,Own Label,Small,Active,,186.0
+P0254,Personal Care item 0254,Personal Care,National Brand,Large,Active,,51.0
+P0255,Personal Care item 0255,Personal Care,National Brand,Medium,Active,,67.0
+P0256,Personal Care item 0256,Personal Care,Own Label,Medium,Active,,152.0
+P0257,Personal Care item 0257,Personal Care,Regional Brand,Small,Active,,410.0
+P0258,Personal Care item 0258,Personal Care,National Brand,Small,Active,,199.0
+P0259,Personal Care item 0259,Personal Care,National Brand,Small,Active,,330.0
+P0260,Personal Care item 0260,Personal Care,National Brand,Large,Active,,279.0
+P0261,Personal Care item 0261,Personal Care,National Brand,Medium,Active,,438.0
+P0262,Personal Care item 0262,Personal Care,Regional Brand,Large,Active,,300.0
+P0263,Personal Care item 0263,Personal Care,National Brand,Small,Active,,280.0
+P0264,Personal Care item 0264,Personal Care,National Brand,Medium,Delisted,18,82.0
+P0265,Personal Care item 0265,Personal Care,National Brand,Medium,Active,,233.0
+P0266,Personal Care item 0266,Personal Care,National Brand,Large,Active,,345.0
+P0267,Personal Care item 0267,Personal Care,National Brand,Large,Active,,365.0
+P0268,Personal Care item 0268,Personal Care,National Brand,Medium,Active,,259.0
+P0269,Personal Care item 0269,Personal Care,Regional Brand,Large,Active,,174.0
+P0270,Personal Care item 0270,Personal Care,National Brand,Large,Active,,161.0
+P0271,Personal Care item 0271,Personal Care,Own Label,Large,Active,,168.0

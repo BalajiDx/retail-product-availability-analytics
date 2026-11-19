@@ -1,0 +1,272 @@
+SKU,ProductName,Category,Status,current_price,price_changes_2024,change_since_jan_pct
+P0233,Household item 0233,Household,Active,666.0,3,34.8
+P0216,Household item 0216,Household,Active,342.0,3,33.6
+P0055,Dairy item 0055,Dairy,Active,36.0,3,33.3
+P0070,Dairy item 0070,Dairy,Active,71.0,3,31.5
+P0199,Beverages item 0199,Beverages,Active,283.0,3,31.0
+P0139,Grocery item 0139,Grocery,Delisted,198.0,3,30.3
+P0040,Dairy item 0040,Dairy,Active,132.0,3,29.4
+P0094,Bakery item 0094,Bakery,Active,108.0,3,28.6
+P0080,Bakery item 0080,Bakery,Active,55.0,3,27.9
+P0182,Beverages item 0182,Beverages,Active,102.0,3,27.5
+P0048,Dairy item 0048,Dairy,Active,144.0,3,27.4
+P0051,Dairy item 0051,Dairy,Active,141.0,3,27.0
+P0264,Personal Care item 0264,Personal Care,Delisted,104.0,3,26.8
+P0151,Grocery item 0151,Grocery,Active,225.0,3,26.4
+P0116,Frozen item 0116,Frozen,Active,154.0,3,26.2
+P0253,Personal Care item 0253,Personal Care,Active,234.0,3,25.8
+P0263,Personal Care item 0263,Personal Care,Active,349.0,3,24.6
+P0176,Beverages item 0176,Beverages,Delisted,135.0,3,22.7
+P0159,Grocery item 0159,Grocery,Active,336.0,3,22.6
+P0003,Fresh Produce item 0003,Fresh Produce,Active,83.0,3,22.1
+P0093,Bakery item 0093,Bakery,Active,75.0,3,21.0
+P0171,Grocery item 0171,Grocery,Active,213.0,3,19.0
+P0020,Fresh Produce item 0020,Fresh Produce,Delisted,166.0,3,17.7
+P0136,Grocery item 0136,Grocery,Active,186.0,3,17.7
+P0061,Dairy item 0061,Dairy,Active,100.0,3,17.6
+P0173,Beverages item 0173,Beverages,Active,171.0,3,16.3
+P0096,Bakery item 0096,Bakery,Active,58.0,3,16.0
+P0206,Household item 0206,Household,Active,323.0,3,15.8
+P0217,Household item 0217,Household,Active,167.0,3,15.2
+P0142,Grocery item 0142,Grocery,Active,47.0,3,14.6
+P0179,Beverages item 0179,Beverages,Active,156.0,3,13.0
+P0002,Fresh Produce item 0002,Fresh Produce,Active,199.0,3,12.4
+P0120,Frozen item 0120,Frozen,Active,467.0,3,10.7
+P0122,Frozen item 0122,Frozen,Active,432.0,3,9.9
+P0152,Grocery item 0152,Grocery,Delisted,134.0,3,9.8
+P0161,Grocery item 0161,Grocery,Active,437.0,3,9.8
+P0026,Fresh Produce item 0026,Fresh Produce,Active,193.0,3,9.7
+P0098,Bakery item 0098,Bakery,Delisted,92.0,3,9.5
+P0109,Frozen item 0109,Frozen,Active,308.0,3,8.8
+P0053,Dairy item 0053,Dairy,Active,88.0,3,8.6
+P0115,Frozen item 0115,Frozen,Active,313.0,3,7.9
+P0033,Fresh Produce item 0033,Fresh Produce,Active,55.0,3,7.8
+P0087,Bakery item 0087,Bakery,Active,56.0,3,7.7
+P0140,Grocery item 0140,Grocery,Active,258.0,3,7.1
+P0163,Grocery item 0163,Grocery,Delisted,394.0,3,6.8
+P0154,Grocery item 0154,Grocery,Active,112.0,3,5.7
+P0248,Personal Care item 0248,Personal Care,Active,96.0,3,5.5
+P0071,Dairy item 0071,Dairy,Active,40.0,3,5.3
+P0185,Beverages item 0185,Beverages,Active,140.0,3,4.5
+P0234,Household item 0234,Household,Active,244.0,3,3.8
+P0204,Beverages item 0204,Beverages,Active,56.0,3,3.7
+P0057,Dairy item 0057,Dairy,Active,58.0,3,3.6
+P0202,Beverages item 0202,Beverages,Active,185.0,3,3.4
+P0143,Grocery item 0143,Grocery,Active,123.0,3,1.7
+P0257,Personal Care item 0257,Personal Care,Active,406.0,3,-1.0
+P0218,Household item 0218,Household,Active,162.0,3,-4.1
+P0153,Grocery item 0153,Grocery,Active,322.0,3,-6.7
+P0196,Beverages item 0196,Beverages,Active,96.0,3,-11.9
+P0231,Household item 0231,Household,Active,128.0,3,-12.3
+P0024,Fresh Produce item 0024,Fresh Produce,Active,98.0,3,-14.8
+P0119,Frozen item 0119,Frozen,Delisted,123.0,3,-15.8
+P0007,Fresh Produce item 0007,Fresh Produce,Active,84.0,3,-28.2
+P0125,Frozen item 0125,Frozen,Active,281.0,2,21.6
+P0012,Fresh Produce item 0012,Fresh Produce,Active,86.0,2,21.1
+P0118,Frozen item 0118,Frozen,Active,534.0,2,21.1
+P0134,Frozen item 0134,Frozen,Active,528.0,2,21.1
+P0131,Frozen item 0131,Frozen,Active,311.0,2,20.1
+P0073,Bakery item 0073,Bakery,Delisted,43.0,2,19.4
+P0067,Dairy item 0067,Dairy,Delisted,32.0,2,18.5
+P0260,Personal Care item 0260,Personal Care,Active,330.0,2,18.3
+P0130,Frozen item 0130,Frozen,Active,165.0,2,17.9
+P0254,Personal Care item 0254,Personal Care,Active,60.0,2,17.6
+P0027,Fresh Produce item 0027,Fresh Produce,Active,203.0,2,16.7
+P0025,Fresh Produce item 0025,Fresh Produce,Active,141.0,2,16.5
+P0084,Bakery item 0084,Bakery,Active,78.0,2,16.4
+P0213,Household item 0213,Household,Active,519.0,2,15.3
+P0103,Bakery item 0103,Bakery,Active,69.0,2,15.0
+P0021,Fresh Produce item 0021,Fresh Produce,Delisted,170.0,2,14.9
+P0225,Household item 0225,Household,Active,356.0,2,14.8
+P0210,Household item 0210,Household,Delisted,319.0,2,14.7
+P0083,Bakery item 0083,Bakery,Active,47.0,2,14.6
+P0081,Bakery item 0081,Bakery,Active,41.0,2,13.9
+P0107,Bakery item 0107,Bakery,Active,67.0,2,13.6
+P0190,Beverages item 0190,Beverages,Active,177.0,2,13.5
+P0172,Beverages item 0172,Beverages,Active,35.0,2,12.9
+P0247,Personal Care item 0247,Personal Care,Active,377.0,2,12.9
+P0034,Dairy item 0034,Dairy,Active,132.0,2,12.8
+P0235,Household item 0235,Household,Active,88.0,2,12.8
+P0105,Bakery item 0105,Bakery,Active,54.0,2,12.5
+P0168,Grocery item 0168,Grocery,Active,74.0,2,12.1
+P0255,Personal Care item 0255,Personal Care,Active,75.0,2,11.9
+P0058,Dairy item 0058,Dairy,Active,29.0,2,11.5
+P0050,Dairy item 0050,Dairy,Active,50.0,2,11.1
+P0127,Frozen item 0127,Frozen,Active,409.0,2,11.1
+P0128,Frozen item 0128,Frozen,Delisted,335.0,2,10.6
+P0266,Personal Care item 0266,Personal Care,Active,381.0,2,10.4
+P0205,Household item 0205,Household,Active,380.0,2,10.1
+P0144,Grocery item 0144,Grocery,Active,291.0,2,9.0
+P0101,Bakery item 0101,Bakery,Active,60.0,2,7.1
+P0064,Dairy item 0064,Dairy,Active,116.0,2,6.4
+P0175,Beverages item 0175,Beverages,Active,67.0,2,6.3
+P0237,Household item 0237,Household,Active,351.0,2,5.1
+P0066,Dairy item 0066,Dairy,Delisted,116.0,2,4.5
+P0032,Fresh Produce item 0032,Fresh Produce,Active,25.0,2,4.2
+P0186,Beverages item 0186,Beverages,Active,82.0,2,3.8
+P0208,Household item 0208,Household,Active,415.0,2,3.5
+P0251,Personal Care item 0251,Personal Care,Active,282.0,2,2.2
+P0187,Beverages item 0187,Beverages,Active,59.0,2,1.7
+P0250,Personal Care item 0250,Personal Care,Active,121.0,2,1.7
+P0135,Frozen item 0135,Frozen,Active,185.0,2,1.6
+P0243,Household item 0243,Household,Active,308.0,2,1.3
+P0207,Household item 0207,Household,Active,207.0,2,1.0
+P0195,Beverages item 0195,Beverages,Active,141.0,2,0.7
+P0258,Personal Care item 0258,Personal Care,Active,200.0,2,0.5
+P0022,Fresh Produce item 0022,Fresh Produce,Active,90.0,2,0.0
+P0037,Dairy item 0037,Dairy,Active,50.0,2,0.0
+P0244,Personal Care item 0244,Personal Care,Active,198.0,2,0.0
+P0023,Fresh Produce item 0023,Fresh Produce,Active,162.0,2,-1.2
+P0239,Household item 0239,Household,Active,342.0,2,-1.2
+P0245,Personal Care item 0245,Personal Care,Active,208.0,2,-1.9
+P0059,Dairy item 0059,Dairy,Active,49.0,2,-2.0
+P0150,Grocery item 0150,Grocery,Active,182.0,2,-2.2
+P0145,Grocery item 0145,Grocery,Active,254.0,2,-2.3
+P0091,Bakery item 0091,Bakery,Active,34.0,2,-2.9
+P0049,Dairy item 0049,Dairy,Active,48.0,2,-4.0
+P0063,Dairy item 0063,Dairy,Active,24.0,2,-4.0
+P0113,Frozen item 0113,Frozen,Active,108.0,2,-7.7
+P0137,Grocery item 0137,Grocery,Active,168.0,2,-13.8
+P0146,Grocery item 0146,Grocery,Active,230.0,2,-14.8
+P0121,Frozen item 0121,Frozen,Active,286.0,2,-16.1
+P0047,Dairy item 0047,Dairy,Active,130.0,1,12.1
+P0124,Frozen item 0124,Frozen,Active,311.0,1,11.9
+P0100,Bakery item 0100,Bakery,Active,86.0,1,11.7
+P0074,Bakery item 0074,Bakery,Active,48.0,1,11.6
+P0060,Dairy item 0060,Dairy,Active,68.0,1,11.5
+P0189,Beverages item 0189,Beverages,Active,178.0,1,11.3
+P0042,Dairy item 0042,Dairy,Active,110.0,1,11.1
+P0075,Bakery item 0075,Bakery,Active,41.0,1,10.8
+P0112,Frozen item 0112,Frozen,Active,184.0,1,10.8
+P0001,Fresh Produce item 0001,Fresh Produce,Delisted,31.0,1,10.7
+P0147,Grocery item 0147,Grocery,Active,83.0,1,10.7
+P0222,Household item 0222,Household,Active,169.0,1,10.5
+P0044,Dairy item 0044,Dairy,Active,32.0,1,10.3
+P0111,Frozen item 0111,Frozen,Active,143.0,1,10.0
+P0046,Dairy item 0046,Dairy,Active,122.0,1,9.9
+P0016,Fresh Produce item 0016,Fresh Produce,Delisted,180.0,1,9.8
+P0035,Dairy item 0035,Dairy,Active,45.0,1,9.8
+P0184,Beverages item 0184,Beverages,Active,136.0,1,9.7
+P0191,Beverages item 0191,Beverages,Active,137.0,1,9.6
+P0241,Household item 0241,Household,Active,542.0,1,9.5
+P0157,Grocery item 0157,Grocery,Active,320.0,1,9.2
+P0008,Fresh Produce item 0008,Fresh Produce,Active,36.0,1,9.1
+P0177,Beverages item 0177,Beverages,Active,211.0,1,8.8
+P0201,Beverages item 0201,Beverages,Active,237.0,1,8.2
+P0072,Bakery item 0072,Bakery,Active,82.0,1,7.9
+P0108,Frozen item 0108,Frozen,Active,445.0,1,7.7
+P0092,Bakery item 0092,Bakery,Active,71.0,1,7.6
+P0162,Grocery item 0162,Grocery,Active,341.0,1,6.9
+P0242,Household item 0242,Household,Active,312.0,1,6.8
+P0164,Grocery item 0164,Grocery,Active,144.0,1,6.7
+P0006,Fresh Produce item 0006,Fresh Produce,Active,98.0,1,6.5
+P0132,Frozen item 0132,Frozen,Active,311.0,1,6.5
+P0194,Beverages item 0194,Beverages,Active,33.0,1,6.5
+P0271,Personal Care item 0271,Personal Care,Active,179.0,1,6.5
+P0011,Fresh Produce item 0011,Fresh Produce,Active,174.0,1,6.1
+P0181,Beverages item 0181,Beverages,Active,190.0,1,6.1
+P0086,Bakery item 0086,Bakery,Active,75.0,1,5.6
+P0249,Personal Care item 0249,Personal Care,Active,337.0,1,5.6
+P0036,Dairy item 0036,Dairy,Active,116.0,1,5.5
+P0031,Fresh Produce item 0031,Fresh Produce,Active,101.0,1,5.2
+P0065,Dairy item 0065,Dairy,Active,81.0,1,5.2
+P0169,Grocery item 0169,Grocery,Active,81.0,1,5.2
+P0211,Household item 0211,Household,Active,282.0,1,5.2
+P0138,Grocery item 0138,Grocery,Active,82.0,1,5.1
+P0043,Dairy item 0043,Dairy,Active,69.0,1,4.5
+P0160,Grocery item 0160,Grocery,Active,416.0,1,4.5
+P0062,Dairy item 0062,Dairy,Active,72.0,1,4.3
+P0188,Beverages item 0188,Beverages,Active,134.0,1,3.9
+P0005,Fresh Produce item 0005,Fresh Produce,Active,136.0,1,3.8
+P0041,Dairy item 0041,Dairy,Active,27.0,1,3.8
+P0220,Household item 0220,Household,Active,406.0,1,3.8
+P0129,Frozen item 0129,Frozen,Active,119.0,1,3.5
+P0097,Bakery item 0097,Bakery,Active,60.0,1,3.4
+P0261,Personal Care item 0261,Personal Care,Active,453.0,1,3.4
+P0038,Dairy item 0038,Dairy,Active,94.0,1,3.3
+P0089,Bakery item 0089,Bakery,Active,42.0,1,2.4
+P0009,Fresh Produce item 0009,Fresh Produce,Active,58.0,1,-3.3
+P0088,Bakery item 0088,Bakery,Active,78.0,1,-3.7
+P0167,Grocery item 0167,Grocery,Active,341.0,1,-3.7
+P0228,Household item 0228,Household,Active,130.0,1,-3.7
+P0174,Beverages item 0174,Beverages,Active,193.0,1,-4.0
+P0104,Bakery item 0104,Bakery,Active,43.0,1,-4.4
+P0133,Frozen item 0133,Frozen,Active,155.0,1,-4.9
+P0193,Beverages item 0193,Beverages,Delisted,112.0,1,-5.1
+P0017,Fresh Produce item 0017,Fresh Produce,Active,135.0,1,-5.6
+P0229,Household item 0229,Household,Active,408.0,1,-6.4
+P0158,Grocery item 0158,Grocery,Active,112.0,1,-6.7
+P0256,Personal Care item 0256,Personal Care,Active,141.0,1,-7.2
+P0095,Bakery item 0095,Bakery,Active,72.0,1,-7.7
+P0200,Beverages item 0200,Beverages,Active,190.0,1,-8.7
+P0114,Frozen item 0114,Frozen,Delisted,103.0,1,-8.8
+P0149,Grocery item 0149,Grocery,Active,268.0,1,-8.8
+P0197,Beverages item 0197,Beverages,Active,176.0,1,-8.8
+P0056,Dairy item 0056,Dairy,Delisted,50.0,1,-9.1
+P0166,Grocery item 0166,Grocery,Delisted,178.0,1,-10.1
+P0117,Frozen item 0117,Frozen,Active,138.0,1,-10.4
+P0192,Beverages item 0192,Beverages,Active,123.0,1,-10.9
+P0224,Household item 0224,Household,Active,396.0,1,-11.8
+P0004,Fresh Produce item 0004,Fresh Produce,Delisted,115.0,0,0.0
+P0010,Fresh Produce item 0010,Fresh Produce,Active,120.0,0,0.0
+P0013,Fresh Produce item 0013,Fresh Produce,Active,87.0,0,0.0
+P0014,Fresh Produce item 0014,Fresh Produce,Active,127.0,0,0.0
+P0015,Fresh Produce item 0015,Fresh Produce,Active,126.0,0,0.0
+P0018,Fresh Produce item 0018,Fresh Produce,Delisted,31.0,0,0.0
+P0019,Fresh Produce item 0019,Fresh Produce,Delisted,58.0,0,0.0
+P0028,Fresh Produce item 0028,Fresh Produce,Active,86.0,0,0.0
+P0029,Fresh Produce item 0029,Fresh Produce,Active,171.0,0,0.0
+P0030,Fresh Produce item 0030,Fresh Produce,Active,30.0,0,0.0
+P0039,Dairy item 0039,Dairy,Active,71.0,0,0.0
+P0045,Dairy item 0045,Dairy,Active,62.0,0,0.0
+P0052,Dairy item 0052,Dairy,Active,47.0,0,0.0
+P0054,Dairy item 0054,Dairy,Active,27.0,0,0.0
+P0068,Dairy item 0068,Dairy,Active,75.0,0,0.0
+P0069,Dairy item 0069,Dairy,Active,65.0,0,0.0
+P0076,Bakery item 0076,Bakery,Active,32.0,0,0.0
+P0077,Bakery item 0077,Bakery,Active,34.0,0,0.0
+P0078,Bakery item 0078,Bakery,Active,67.0,0,0.0
+P0079,Bakery item 0079,Bakery,Active,48.0,0,0.0
+P0082,Bakery item 0082,Bakery,Active,60.0,0,0.0
+P0085,Bakery item 0085,Bakery,Active,72.0,0,0.0
+P0090,Bakery item 0090,Bakery,Active,46.0,0,0.0
+P0099,Bakery item 0099,Bakery,Active,77.0,0,0.0
+P0102,Bakery item 0102,Bakery,Active,65.0,0,0.0
+P0106,Bakery item 0106,Bakery,Active,38.0,0,0.0
+P0110,Frozen item 0110,Frozen,Active,343.0,0,0.0
+P0123,Frozen item 0123,Frozen,Active,284.0,0,0.0
+P0126,Frozen item 0126,Frozen,Active,147.0,0,0.0
+P0141,Grocery item 0141,Grocery,Active,311.0,0,0.0
+P0148,Grocery item 0148,Grocery,Active,263.0,0,0.0
+P0155,Grocery item 0155,Grocery,Active,397.0,0,0.0
+P0156,Grocery item 0156,Grocery,Active,120.0,0,0.0
+P0165,Grocery item 0165,Grocery,Active,295.0,0,0.0
+P0170,Grocery item 0170,Grocery,Active,268.0,0,0.0
+P0178,Beverages item 0178,Beverages,Active,44.0,0,0.0
+P0180,Beverages item 0180,Beverages,Active,120.0,0,0.0
+P0183,Beverages item 0183,Beverages,Active,136.0,0,0.0
+P0198,Beverages item 0198,Beverages,Active,189.0,0,0.0
+P0203,Beverages item 0203,Beverages,Active,151.0,0,0.0
+P0209,Household item 0209,Household,Active,410.0,0,0.0
+P0212,Household item 0212,Household,Active,393.0,0,0.0
+P0214,Household item 0214,Household,Active,298.0,0,0.0
+P0215,Household item 0215,Household,Active,119.0,0,0.0
+P0219,Household item 0219,Household,Active,144.0,0,0.0
+P0221,Household item 0221,Household,Active,218.0,0,0.0
+P0223,Household item 0223,Household,Active,431.0,0,0.0
+P0226,Household item 0226,Household,Active,63.0,0,0.0
+P0227,Household item 0227,Household,Active,297.0,0,0.0
+P0230,Household item 0230,Household,Active,69.0,0,0.0
+P0232,Household item 0232,Household,Active,370.0,0,0.0
+P0236,Household item 0236,Household,Active,162.0,0,0.0
+P0238,Household item 0238,Household,Active,91.0,0,0.0
+P0240,Household item 0240,Household,Active,279.0,0,0.0
+P0246,Personal Care item 0246,Personal Care,Active,142.0,0,0.0
+P0252,Personal Care item 0252,Personal Care,Active,125.0,0,0.0
+P0259,Personal Care item 0259,Personal Care,Active,330.0,0,0.0
+P0262,Personal Care item 0262,Personal Care,Active,300.0,0,0.0
+P0265,Personal Care item 0265,Personal Care,Active,233.0,0,0.0
+P0267,Personal Care item 0267,Personal Care,Active,365.0,0,0.0
+P0268,Personal Care item 0268,Personal Care,Active,259.0,0,0.0
+P0269,Personal Care item 0269,Personal Care,Active,174.0,0,0.0
+P0270,Personal Care item 0270,Personal Care,Active,161.0,0,0.0

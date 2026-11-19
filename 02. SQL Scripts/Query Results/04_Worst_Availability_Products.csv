@@ -1,0 +1,16 @@
+SKU,ProductName,Category,ranged_weeks,out_of_stock_weeks,availability_pct
+P0135,Frozen item 0135,Frozen,312,29,90.7
+P0007,Fresh Produce item 0007,Fresh Produce,260,21,91.9
+P0129,Frozen item 0129,Frozen,260,18,93.1
+P0108,Frozen item 0108,Frozen,312,21,93.3
+P0005,Fresh Produce item 0005,Fresh Produce,260,17,93.5
+P0133,Frozen item 0133,Frozen,312,20,93.6
+P0192,Beverages item 0192,Beverages,312,20,93.6
+P0113,Frozen item 0113,Frozen,312,19,93.9
+P0111,Frozen item 0111,Frozen,312,18,94.2
+P0127,Frozen item 0127,Frozen,312,18,94.2
+P0212,Household item 0212,Household,312,18,94.2
+P0131,Frozen item 0131,Frozen,260,15,94.2
+P0216,Household item 0216,Household,260,15,94.2
+P0196,Beverages item 0196,Beverages,312,17,94.6
+P0118,Frozen item 0118,Frozen,260,14,94.6

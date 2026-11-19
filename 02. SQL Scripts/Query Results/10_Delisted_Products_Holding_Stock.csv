@@ -1,0 +1,24 @@
+SKU,ProductName,Category,DelistWeek,depots_with_stock,units_left,last_week
+P0021,Fresh Produce item 0021,Fresh Produce,10,5,3140,2024-03-25
+P0004,Fresh Produce item 0004,Fresh Produce,43,5,897,2024-11-11
+P0066,Dairy item 0066,Dairy,35,5,861,2024-09-16
+P0001,Fresh Produce item 0001,Fresh Produce,12,5,724,2024-04-08
+P0018,Fresh Produce item 0018,Fresh Produce,31,6,614,2024-08-19
+P0016,Fresh Produce item 0016,Fresh Produce,42,6,551,2024-11-04
+P0067,Dairy item 0067,Dairy,21,6,529,2024-06-10
+P0152,Grocery item 0152,Grocery,12,6,507,2024-04-08
+P0098,Bakery item 0098,Bakery,43,4,479,2024-11-11
+P0073,Bakery item 0073,Bakery,34,6,389,2024-09-09
+P0139,Grocery item 0139,Grocery,21,5,350,2024-06-10
+P0176,Beverages item 0176,Beverages,31,5,285,2024-08-19
+P0163,Grocery item 0163,Grocery,19,5,261,2024-05-27
+P0019,Fresh Produce item 0019,Fresh Produce,21,5,217,2024-06-10
+P0193,Beverages item 0193,Beverages,32,5,215,2024-08-26
+P0056,Dairy item 0056,Dairy,15,3,184,2024-04-29
+P0166,Grocery item 0166,Grocery,16,5,179,2024-05-06
+P0020,Fresh Produce item 0020,Fresh Produce,31,1,119,2024-08-19
+P0128,Frozen item 0128,Frozen,27,3,116,2024-07-22
+P0264,Personal Care item 0264,Personal Care,18,6,105,2024-05-20
+P0119,Frozen item 0119,Frozen,24,3,98,2024-07-01
+P0210,Household item 0210,Household,33,6,36,2024-09-02
+P0114,Frozen item 0114,Frozen,33,3,23,2024-09-02

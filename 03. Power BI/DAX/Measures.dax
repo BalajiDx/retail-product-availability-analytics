@@ -1,0 +1,91 @@
+// =====================================================================
+// Retail Product & Availability Analytics - DAX
+// Tables : Products, Depots, PriceHistory (Active rows only), WeeklyStockSales, Calendar
+// NOTE   : Written against the model in Dashboard Images/4.Data_Model.png.
+//          Not executed in this repo's build environment - check each result against
+//          02. SQL Scripts/Query Results/ after loading the data.
+// =====================================================================
+
+// 1. CALENDAR (mark as date table; Calendar[Date] -> WeeklyStockSales[WeekStart])
+Calendar =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2024, 1, 1 ), DATE ( 2024, 12, 31 ) ),
+    "Week Start", [Date] - WEEKDAY ( [Date], 3 ),
+    "Week No",    WEEKNUM ( [Date], 2 ),
+    "Month",      FORMAT ( [Date], "MMM yyyy" ),
+    "Month Sort", YEAR ( [Date] ) * 100 + MONTH ( [Date] )
+)
+
+// 2. CALCULATED COLUMNS
+// WeeklyStockSales[Active Price]  - the Active price valid in that week
+// (PriceHistory holds Active rows only; if you load the raw file, add PriceHistory[TransactionStatus] = "Active")
+Active Price =
+VAR s = WeeklyStockSales[SKU]
+VAR d = WeeklyStockSales[WeekStart]
+RETURN
+    CALCULATE (
+        MAX ( PriceHistory[Price] ),
+        FILTER ( ALL ( PriceHistory ),
+            PriceHistory[SKU] = s && PriceHistory[EffectiveFrom] <= d && PriceHistory[EffectiveTo] >= d )
+    )
+
+// WeeklyStockSales[Revenue]
+Revenue = WeeklyStockSales[UnitsSold] * WeeklyStockSales[Active Price]
+
+// WeeklyStockSales[Lost Value]
+Lost Value = WeeklyStockSales[LostUnits] * WeeklyStockSales[Active Price]
+
+// 3. MEASURES - Availability   (display folder: Availability)
+Ranged Lines = COUNTROWS ( WeeklyStockSales )
+
+Availability % = DIVIDE ( SUM ( WeeklyStockSales[InStock] ), [Ranged Lines] )
+
+Out of Stock Weeks = [Ranged Lines] - SUM ( WeeklyStockSales[InStock] )
+
+Demand Lost % = DIVIDE ( SUM ( WeeklyStockSales[LostUnits] ), SUM ( WeeklyStockSales[DemandUnits] ) )
+
+Lost Sales Value = SUM ( WeeklyStockSales[Lost Value] )
+
+Availability Target Gap = [Availability %] - 0.97      // 97% target, illustrative
+
+// 4. MEASURES - Sales & pricing   (display folder: Sales)
+Units Sold = SUM ( WeeklyStockSales[UnitsSold] )
+
+Total Revenue = SUM ( WeeklyStockSales[Revenue] )
+
+Avg Selling Price = DIVIDE ( [Total Revenue], [Units Sold] )
+
+Revenue Share % = DIVIDE ( [Total Revenue], CALCULATE ( [Total Revenue], ALL ( Products ) ) )
+
+Own Label Share % = DIVIDE ( CALCULATE ( [Total Revenue], Products[Brand] = "Own Label" ), [Total Revenue] )
+
+Current Price =
+VAR LastDay = MAX ( Calendar[Date] )
+RETURN
+    CALCULATE ( MAX ( PriceHistory[Price] ),
+        PriceHistory[EffectiveFrom] <= LastDay, PriceHistory[EffectiveTo] >= LastDay )
+
+Price Changes = MAX ( 0, COUNTROWS ( PriceHistory ) - 1 )
+
+// ABC class for a product (use in a table with Products[SKU])
+Product ABC =
+VAR Rev = [Total Revenue]
+VAR Cum =
+    SUMX ( FILTER ( ALL ( Products[SKU] ), [Total Revenue] >= Rev ), [Total Revenue] )
+VAR Prior = DIVIDE ( Cum - Rev, CALCULATE ( [Total Revenue], ALL ( Products ) ) )
+RETURN IF ( HASONEVALUE ( Products[SKU] ), SWITCH ( TRUE (), Prior < 0.8, "A", Prior < 0.95, "B", "C" ) )
+
+// 5. MEASURES - Stock health   (display folder: Stock)
+Closing Stock (last week) =
+CALCULATE ( SUM ( WeeklyStockSales[ClosingStock] ), LASTDATE ( WeeklyStockSales[WeekStart] ) )
+
+Avg Weekly Sales (8 wks) =
+VAR LastWk = MAX ( WeeklyStockSales[WeekStart] )
+RETURN
+    CALCULATE ( AVERAGE ( WeeklyStockSales[UnitsSold] ),
+        WeeklyStockSales[WeekStart] > LastWk - 56, WeeklyStockSales[WeekStart] <= LastWk )
+
+Weeks of Cover = DIVIDE ( [Closing Stock (last week)], [Avg Weekly Sales (8 wks)] )
+
+Delisted Units Left =
+CALCULATE ( [Closing Stock (last week)], Products[Status] = "Delisted" )
